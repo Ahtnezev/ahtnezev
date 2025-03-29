@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vicente and I'm a web developer, from Mexico.</p>
+<p align="left">My name is Vicente and I'm a web developer, from Mexico 🇲🇽.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021 <img src="https://emojis.slackmojis.com/emojis/images/1646114802/54652/bugs_bunny.png" width="25"> <br>📚 I'm currently learning english and docker 🐳<br>🎯 Goals: become a fullstack 🔥<br>🎲 I like skateboarding 🛹 and Dragon Ball 🐉</p>
+<p align="left">✨ Creating bugs since 2021 <img src="https://emojis.slackmojis.com/emojis/images/1646114802/54652/bugs_bunny.png" width="25"> <br>📚 I'm currently learning english 🇺🇸 and docker 🐳<br>🎯 Goals: become a fullstack 🔥<br>🎲 I like skateboarding 🛹 and Dragon Ball 🐉</p>
 
 ###
 
