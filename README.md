@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey <img src="https://emojis.slackmojis.com/emojis/images/1660415375/60665/alien-monster.gif" width="35"> What's up?</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021 🤖<br>📚 I'm currently learning english  and docker 🐳<br>🎯 Goals: become a fullstack 🔥<br>🎲 I like skateboarding 🛹 and Dragon Ball 🐉</p>
+<p align="left">✨ Creating bugs since 2021 <img src="https://emojis.slackmojis.com/emojis/images/1646114802/54652/bugs_bunny.png" width="25"> <br>📚 I'm currently learning english and docker 🐳<br>🎯 Goals: become a fullstack 🔥<br>🎲 I like skateboarding 🛹 and Dragon Ball 🐉</p>
 
 ###
 
